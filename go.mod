@@ -1,4 +1,4 @@
-module github.com/chenbq011/awesomeProject2
+module github.com/chenbq011/awesomeProject2/documents
 
 go 1.15
 
