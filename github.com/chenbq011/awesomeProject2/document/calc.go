@@ -1,7 +1,7 @@
 /*
 简易计算器计算自定义包
 */
-package documents
+package document
 
 // 一种实现两个整数相加的函数，
 // 返回值为两整数相加之和
